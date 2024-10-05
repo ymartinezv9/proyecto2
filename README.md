@@ -66,7 +66,7 @@ abre el archivo ventanaPrincipal
 ## 5. Resolución de Problemas
 
 ### No puedo le permite crear el archivo:
-   Verifique que se ingresaran datos al archivo y estos sean mostrados en la tabla principal del programa
+  1. Verifique que se ingresaran datos al archivo y estos sean mostrados en la tabla principal del programa
 ---
 
 ## 6. Soporte Técnico
